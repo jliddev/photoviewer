@@ -10,7 +10,7 @@ cordova plugin add com-sarriaroman-photoviewer
 
 Ionic 2:
 ```bash
-$ ionic cordova plugin add com-sarriaroman-photoviewer
+$ ionic cordova plugin add https://github.com/jliddev/photoviewer.git
 $ npm install --save @ionic-native/photo-viewer
 ```
 
