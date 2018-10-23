@@ -1,11 +1,12 @@
 # Photo Viewer  
 > This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features.
+> This fork just removes the uri encoding of a string passed in, it mangles aws signed urls.
 
 ## How to Install
 
 Cordova:
 ```bash
-cordova plugin add com-sarriaroman-photoviewer
+cordova plugin add https://github.com/jliddev/photoviewer.git
 ```
 
 Ionic 2:
