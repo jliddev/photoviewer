@@ -1,6 +1,6 @@
 {
   "name": "af-cdv-photoviewer",
-  "version": "1.1.21",
+  "version": "1.2.0",
   "description": "This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features. Forked from com-sarriaroman-photoviewer",
   "cordova": {
     "id": "af-cdv-photoviewer",
